@@ -14,4 +14,4 @@
 - operating systems
 - networking
 - computer architecture
-- algoritms
+- algorithms
