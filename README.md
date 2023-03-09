@@ -15,3 +15,8 @@
 - networking
 - computer architecture
 - algorithms
+
+> Mandelbrot Fractals
+- Mandelbrot Analysis Tools
+- Julia-sets
+- Newton Fractal
