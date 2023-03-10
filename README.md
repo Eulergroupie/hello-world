@@ -6,9 +6,9 @@
 ## Ideas:
 > Learn subjects while creating web sites and computer-aided learning tools: check Eulergroupie/Eulergroupie for web-site data, https://eulergroupie.github.io/Eulergroupie/ for web-site
 - git
-- html
-- css
-- javascript
+- html, css, javascript
+  - web-pages
+  - graphical programs using canvas
 - python
 - command line
 - operating systems
